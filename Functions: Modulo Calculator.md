@@ -24,5 +24,6 @@ print("modulo is", result(a, b))
 <img width="662" height="311" alt="image" src="https://github.com/user-attachments/assets/5c14b0ba-5e71-4ca2-8390-11ba0a8ffa99" />
 
 ## Result
-<img width="662" height="311" alt="image" src="https://github.com/user-attachments/assets/a482e95b-0851-4a53-8354-3df43e8e87f9" />
+The program to return two values modulo is successful.
+
 
